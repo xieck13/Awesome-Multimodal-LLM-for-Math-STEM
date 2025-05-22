@@ -15,6 +15,18 @@
 
 ## Awesome Papers
 
+1. **Visual Planning: Let’s Think Only with Images** `Preprint`
+
+   _Yi Xu, Chengzu Li, Han Zhou, Xingchen Wan, Caiqi Zhang, Anna Korhonen, Ivan Vulić_[[Paper](https://arxiv.org/pdf/2505.11409)]
+
+1. **DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning** `Preprint`
+
+   _Ziwei Zheng, Michael Yang, Jack Hong, Chenxiao Zhao, Guohai Xu, Le Yang, Chao Shen, Xing Yu_[[Paper](https://arxiv.org/pdf/2505.14362)]
+
+1. **OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning** `Preprint`
+
+   _Zhaochen Su, Linjie Li, Mingyang Song, Yunzhuo Hao, Zhengyuan Yang, Jun Zhang, Guanjie Chen, Jiawei Gu, Juntao Li, Xiaoye Qu, Yu Cheng_[[Paper](https://arxiv.org/pdf/2505.08617)]
+
 1. **MAVIS: Mathematical Visual Instruction Tuning** `Preprint`
 
    _Renrui Zhang, Xinyu Wei, Dongzhi Jiang, Yichi Zhang, Ziyu Guo,Chengzhuo Tong, Jiaming Liu, Aojun Zhou, Bin Wei, Shanghang Zhang, Peng Gao, Hongsheng Li._[[Paper](https://arxiv.org/pdf/2407.08739)], 2024.7
